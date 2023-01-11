@@ -11,7 +11,7 @@
   "dependencies": {
     "babel-core": "6.17.0",
     "babel-preset-lux": "2.0.2",
-    "knex": "0.12.6",
+    "knex": "2.4.0",
     "lux-framework": "1.2.3",
     "pg": "^7.12.0",
     "sqlite3": "4.0.9"
